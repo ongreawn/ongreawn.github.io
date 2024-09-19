@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ongreawn.github.io/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/app/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/assets/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/css/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/data/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/includes/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/item/sitemap.html.gz
+Sitemap: https://ongreawn.github.io/src/sitemap.html.gz
